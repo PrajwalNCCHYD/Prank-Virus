@@ -1,0 +1,2 @@
+X=MsgBox("Failed To Open My Computer.",5+64,"My Computer")
+X=MsgBox("Virus Found, Do You Want To Scan It?",4+64,"Alert")
